@@ -14,6 +14,7 @@ The framework should be Fractal, so every perspective can be used in smaller and
 
 ## Operations
 - lean
+- kanban
 - agile
 
 ## Practices
