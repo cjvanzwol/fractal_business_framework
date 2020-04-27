@@ -24,3 +24,7 @@ The framework should be Fractal, so every perspective can be used in smaller and
 
 Visualised in 2D of 3D or more D.
 Connected in networks (Graph networks (databases?))
+
+To Do
+find place for:
+DevOps
