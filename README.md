@@ -11,6 +11,7 @@ The framework should be Fractal, so every perspective can be used in smaller and
 ## Tactics
 - Control Triangle: ...
 - 3X: Kent Beck
+- Reinventing Organisation (Frederic Laloux)
 
 ## Operations
 - lean
